@@ -1,6 +1,6 @@
 - Hi, I’m @TheGoogleRider2
 - This is my second account and will be using it from now on.
-- I'm just intrested in computer things. 
+- I'm just interested in computer things. 
 - I consider myself to have a high Computer-literacy and is trying to learn/do programming.
 - Hobbies: 
   Listening to Music, Playing Musical instruments (Guitar, Piano & more), gaming and light programming.
