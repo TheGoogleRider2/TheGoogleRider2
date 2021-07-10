@@ -6,7 +6,7 @@
   Listening to Music, Playing Musical instruments (Guitar, Piano & more), gaming and light programming.
 
 - Computer Equipment:
- Macbook Pro (2013, Intel i7-4850HQ - Nvidia Geforce GT 750m) with Windows 10 (main) & Mac OSX
+ Macbook Pro (15inch-2013, Intel i7-4850HQ - Nvidia Geforce GT 750m) with Windows 10 (main) & Mac OSX
 
 <!---
 TheGoogleRider2/TheGoogleRider2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
