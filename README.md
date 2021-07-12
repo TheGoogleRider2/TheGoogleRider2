@@ -1,4 +1,4 @@
-- Hi, my name is @TheGoogleRider2 :)
+- Hi, my name is @TheGoogleRider2 :(
 - This is my second account and will be using it from now on.
 - I'm just interested in computer things. 
 - I consider myself to have a high Computer-literacy and is trying to learn/do programming.
