@@ -8,7 +8,7 @@
 - Computer Equipment:
  Macbook Pro (15inch-2013, Intel i7-4850HQ - Nvidia Geforce GT 750m) with Windows 10 (main) & Mac OSX.
 
-- Yamete kudasai!!
+- **Yamete kudasai!!**
 
 
 <!---
