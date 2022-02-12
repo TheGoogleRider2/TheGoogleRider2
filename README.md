@@ -2,13 +2,12 @@
 - This is my second account and will be using it from now on since i lost my first one :(.
 - I'm just interested in computer things. 
 - I consider myself to have a high Computer-literacy and is trying to learn/do programming.
-- Hobbies: 
-  Listening to Music, Playing Musical instruments (Guitar, Piano & more), gaming and light programming (currently studying Infomatik in school).
+- Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more), gaming and light programming (currently studying Python, RenPy and Java).
 
 - Computer Equipment:
- Macbook Pro (15inch-2013, Intel i7-4850HQ - Nvidia Geforce GT 750m) with Windows 10 (main) & Mac OSX.
+ Macbook Pro (15inch-2013, Intel i7-4850HQ - Nvidia Geforce GT 750m) with Windows 10.
 
-- **Yamete kudasai!!**
+- **I believe today is Friday**
 
 
 <!---
