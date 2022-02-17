@@ -1,6 +1,5 @@
 - Hi, my name is @TheGoogleRider2 
 - This is my second account and will be using it from now on since i lost my first one :(.
-- I'm just interested in computer things. 
 - I consider myself to have a high Computer-literacy and is trying to learn/do programming.
 - I'm currently learning Java, Python, Dart, Javascript, HTML and there's probably more to learn.
 - Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more), light-gaming.
