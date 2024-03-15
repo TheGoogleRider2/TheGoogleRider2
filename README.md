@@ -1,7 +1,8 @@
 - Hi, my name is TheGoogleRider2 
-- This is my second account and will be using it from now on since i lost my first one :(.
+- This is my second account and will be using it from now on since i lost my first one :(
 - I'm currently learning many things (but mainly coding and computers).
-- Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more), light-gaming.
+- I can speak 3 languagues, those being: English (Fluent), Thai (Speak fluently, Reading ok, Writing meh) & German (honestly everything meh)
+- Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more) & light-gaming.
 
 
 
