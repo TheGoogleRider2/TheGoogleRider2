@@ -4,6 +4,8 @@
 - My Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more) & light-gaming.
 - I have (currently minor) experince with Java, Python and C, but I will probably learn more later on.
 
+(My favourite animal is capybara)
+
 
 
 <!---
