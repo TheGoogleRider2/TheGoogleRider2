@@ -1,11 +1,8 @@
-- Hi, my name is TheGoogleRider2 
-- This is my second account and will be using it from now on since i lost my first one :(
+- Hi, my name is Vincent Wutthisit Brabandt, age 19.
 - I'm currently learning many things (but mainly coding and computers).
 - I can speak 3 languagues, those being: English (Fluent), Thai (Speak fluently, Reading ok, Writing meh) & German (everything meh).
-- Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more) & light-gaming.
-
-- I have (currently minor) experince with Java, Python and C, but I will probably learn more later on (I prefer to be versatile rather than perfect)
-
+- My Hobbies: Listening to Music, Playing Musical instruments (Guitar, Piano & more) & light-gaming.
+- I have (currently minor) experince with Java, Python and C, but I will probably learn more later on.
 
 
 
