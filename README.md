@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vbrabandt@proton.me**
 
-- ⚡ Fun fact **I love Capybaras**
+- ⚡ Fun fact: **I love Capybaras**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
