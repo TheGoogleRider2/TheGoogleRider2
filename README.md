@@ -11,7 +11,7 @@
 
 - I am able to communicate in **3 languages** (English, Thai & *German*)
 
-- My Hobbies: Most things **Tech**, listening (& making) **Music** & **Light-Gaming**
+- **My Hobbies**: Most things **Tech**, listening (& making) **Music** & **Light-Gaming**
 
 - How to reach me **vbrabandt@proton.me**
 
