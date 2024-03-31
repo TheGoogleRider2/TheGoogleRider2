@@ -15,7 +15,7 @@
 
 - How to reach me **vbrabandt@proton.me**
 
-- Fun fact: my old username was **TheGoogleRider**, it was created by my father for me because we had a pet horse named **Google** (yes, weird name) and I was the one who rode it.
+- Fun fact: my old username was **TheGoogleRider**, it was created by my father for me because we had a horse named **Google** (yes, weird name) and I was the one who rode it.
 
 <h3 align="left">My Socials:</h3>
 
