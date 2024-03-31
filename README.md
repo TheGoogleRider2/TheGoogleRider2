@@ -22,7 +22,6 @@
 - Linkedin: [**vbrabandt**](https://www.linkedin.com/in/vbrabandt/)
 - Instagram (also Threads): [**vbrabandt2005**](https://www.instagram.com/vbrabandt2005)
 - Mastadon: [**@vbrabandt@mastodon.social**](https://mastodon.social/@vbrabandt)
-- Twitter: [**BrabandtVincent**](https://twitter.com/BrabandtVincent)
 - Reddit: [**u/thegooglerider**](https://www.reddit.com/user/thegooglerider)
 - MyAnimeList: [**vbrabandt2005**](https://myanimelist.net/profile/vbrabandt2005)
 - Steam: [**TheGoogleRider**](https://steamcommunity.com/id/thegooglerider)
