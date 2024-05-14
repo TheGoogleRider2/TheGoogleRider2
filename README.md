@@ -29,7 +29,7 @@
 
 <h3 align="left">Cool things I use idk:</h3>
 
-- **OSes**: **Windows 11** (Gaming), **MacOS** (Music Prod.) & **Ubuntu** (General)
+- **OSes**: **MacOS** (Music Prod.) & **Ubuntu** (General)
 - **Browsers**: **Chrome** (General) & [**Floorp**](https://github.com/Floorp-Projects/Floorp) (cool stuff)
 - **Editors**: [**VSCode**](https://code.visualstudio.com), [**Zed**](https://zed.dev), [**Notepad++**](https://notepad-plus-plus.org) & [**Notepad-Next**](https://github.com/dail8859/NotepadNext) 
 
